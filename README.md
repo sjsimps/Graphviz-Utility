@@ -2,7 +2,7 @@
 Easily export a graph to .dot format
 
 ### Sample Usage:
-```
+```c++
 #include "graphviz_utility.h"
 
 int main()
